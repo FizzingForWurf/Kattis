@@ -1,1 +1,1 @@
-"# Kattis" 
+# Kattis
